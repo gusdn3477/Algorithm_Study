@@ -1,1 +1,2 @@
-# Algorithm_solving
+## 알고리즘 문제풀이
+- 각종 알고리즘 문제풀이 코드를 저장하기 위해 만든 repository입니다.
